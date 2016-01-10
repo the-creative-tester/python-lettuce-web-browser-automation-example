@@ -1,1 +1,1 @@
-http://the-creative-tester.github.io/Python-Browser-Automation/
+http://the-creative-tester.github.io/Python-Web-Browser-Automation/
